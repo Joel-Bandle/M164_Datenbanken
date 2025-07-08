@@ -128,3 +128,11 @@ Umfassende Konzepte der Datensicherung (logisch/physisch, Voll-/Differentiell/In
 ---
 
 ## 📅 Lektion vom 01.07.2025:
+
+Repetition vom ganzen Stoff für LB2
+
+---
+
+## 📅 Lektion vom 08.07.2025:
+
+Repetition vom ganzen Stoff
